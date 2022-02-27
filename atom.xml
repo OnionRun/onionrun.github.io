@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onionrun.github.io/</id>
     <title>Gridea</title>
-    <updated>2022-02-27T02:43:16.878Z</updated>
+    <updated>2022-02-27T03:08:32.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onionrun.github.io/"/>
     <link rel="self" href="https://onionrun.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://onionrun.github.io/images/avatar.png</logo>
     <icon>https://onionrun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[付款]]></title>
+        <id>https://onionrun.github.io/post/fu-kuan/</id>
+        <link href="https://onionrun.github.io/post/fu-kuan/">
+        </link>
+        <updated>2022-02-27T03:04:22.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>'NFT'</strong> ！</p>
+<h2 id="地址">地址👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作<br>
+or</p>
+<h2 id="付款码">付款码👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作<br>
+<img src="https://onionrun.github.io//post-images/1645931248954.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://onionrun.github.io/post/about/</id>
